@@ -16,9 +16,10 @@ public class FinallyTest {
             } catch (Exception e) {
                 System.out.println("Catch block : " + e);
                 break;
-            } finally {
-                System.out.println("Finally Block");
-            }
+            } 
+//            finally {
+//                System.out.println("Finally Block");
+//            }
             System.out.println("End For");
         }
         System.out.println("End Program");
