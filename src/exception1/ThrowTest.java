@@ -24,4 +24,4 @@ public class ThrowTest {
             System.out.println("Error --> Divide by Zero !");
         }
     }
-
+}
